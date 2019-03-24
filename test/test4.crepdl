@@ -1,0 +1,14 @@
+<union xmlns="http://purl.oclc.org/dsdl/crepdl/ns/structure/1.0">
+<char>A</char>
+  <union>
+    <char>B</char>
+    <union>
+      <char>C</char>
+    </union>
+  </union>
+<char>D</char>
+<intersection>
+  <char>XY</char>
+  <char>YZ</char>
+</intersection>
+</union>

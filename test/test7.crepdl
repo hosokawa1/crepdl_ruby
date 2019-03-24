@@ -1,0 +1,4 @@
+<union xmlns="http://purl.oclc.org/dsdl/crepdl/ns/structure/1.0">
+  <char><hull>HULL</hull></char>
+  <char><kernel>KERNEL</kernel></char>
+</union>

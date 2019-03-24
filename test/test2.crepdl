@@ -1,0 +1,9 @@
+<union xmlns="http://purl.oclc.org/dsdl/crepdl/ns/structure/1.0">
+  <char>A</char>
+  <char>B</char>
+  <char>C</char>
+  <char>D</char>
+  <char>E</char>
+  <char>F</char>
+  <char>G</char>
+</union>
